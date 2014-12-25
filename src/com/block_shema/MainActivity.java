@@ -30,6 +30,7 @@ public class MainActivity extends ActionBarActivity implements OnClickListener
         txt = (TextView) findViewById(R.id.textView1);
         
         btn.setOnClickListener(this);
+        //changes
         
     }
 
